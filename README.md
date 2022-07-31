@@ -1,4 +1,4 @@
-Hi there 👋, I'm [Anuhas](https://github.com/Anuhas-Akalanka) 👨‍💻
+Hi there 👋, I'm [Anuhas](https://www.linkedin.com/in/anuhas-akalanka) 👨‍💻
 
 🌱 I’m currently learning Frontend Development.
 
